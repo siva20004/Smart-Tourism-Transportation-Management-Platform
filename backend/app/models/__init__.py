@@ -1,0 +1,19 @@
+from backend.app.models.entities import (
+    User,
+    DataSource,
+    Destination,
+    RailwayStation,
+    RailwayRoute,
+    BusRoute,
+    TransportationSchedule,
+    TourismStatistic,
+    PassengerStatistic,
+    HotelInformation,
+    HotelOccupancyRecord,
+    BookingRecord,
+    WeatherRecord,
+    MLModelRecord,
+    MLPrediction,
+    DataImportHistory,
+    ReportRecord
+)

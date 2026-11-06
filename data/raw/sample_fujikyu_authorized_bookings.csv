@@ -1,0 +1,9 @@
+booking_id,booking_date,travel_date,service_type,destination,guest_count,booking_status,amount_jpy,source_name
+BK-2026-FJK-901,2026-11-01,2026-11-04,Hotel & Fuji-Q Combo,Highland Resort Hotel & Spa,2,Confirmed,48000,Authorized Ingestion File
+BK-2026-FJK-902,2026-11-01,2026-11-05,Express Highway Bus,Kawaguchiko Station,4,Confirmed,11200,Authorized Ingestion File
+BK-2026-FJK-903,2026-11-02,2026-11-06,Sightseeing Cruise & Ropeway,Lake Kawaguchiko,2,Confirmed,6400,Authorized Ingestion File
+BK-2026-FJK-904,2026-11-02,2026-11-07,Hotel Room Only,Fuji View Hotel,2,Confirmed,36000,Authorized Ingestion File
+BK-2026-FJK-905,2026-11-03,2026-11-08,Fuji-Q 1-Day Free Pass,Fuji-Q Highland,3,Confirmed,21600,Authorized Ingestion File
+BK-2026-FJK-906,2026-11-03,2026-11-09,Fuji Excursion Reserved Seat,Fujikyuko Line,2,Confirmed,8260,Authorized Ingestion File
+BK-2026-FJK-907,2026-11-04,2026-11-10,Hotel & Hot Spring Package,Hotel Mount Fuji,2,Confirmed,52000,Authorized Ingestion File
+BK-2026-FJK-908,2026-11-04,2026-11-11,Mount Fuji 5th Station Shuttle,Subaru Line 5th Station,1,Confirmed,2800,Authorized Ingestion File

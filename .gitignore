@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+**/node_modules/
+backend/venv/
+venv/
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution & Build
+frontend/dist/
+dist/
+build/
+
+# Environment & Local PIDs
+.env
+.backend.pid
+.frontend.pid
+*.log
+fuji_smart_dx.db
+
+# Testing & Cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,11 @@
+hotel_id,hotel_name,record_date,available_rooms,occupied_rooms,occupancy_rate,source_name
+1,Highland Resort Hotel & Spa,2026-11-01,181,154,85.1,Highland Resort PMS Daily Audit
+1,Highland Resort Hotel & Spa,2026-11-02,181,142,78.5,Highland Resort PMS Daily Audit
+1,Highland Resort Hotel & Spa,2026-11-03,181,168,92.8,Highland Resort PMS Daily Audit
+1,Highland Resort Hotel & Spa,2026-11-04,181,135,74.6,Highland Resort PMS Daily Audit
+1,Highland Resort Hotel & Spa,2026-11-05,181,149,82.3,Highland Resort PMS Daily Audit
+2,Fuji View Hotel,2026-11-01,79,64,81.0,Fuji View Hotel Front Desk Ingestion
+2,Fuji View Hotel,2026-11-02,79,58,73.4,Fuji View Hotel Front Desk Ingestion
+2,Fuji View Hotel,2026-11-03,79,72,91.1,Fuji View Hotel Front Desk Ingestion
+2,Fuji View Hotel,2026-11-04,79,52,65.8,Fuji View Hotel Front Desk Ingestion
+2,Fuji View Hotel,2026-11-05,79,61,77.2,Fuji View Hotel Front Desk Ingestion
